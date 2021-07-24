@@ -1,3 +1,4 @@
+import fs from "fs";
 import {createReadStream} from "fs";                                                                //-Import or require the fs module
 import http from "http";
 
